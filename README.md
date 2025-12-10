@@ -31,9 +31,12 @@ endmodule
 ```
 Image:
 [HalfAdd RTL.pdf](https://github.com/user-attachments/files/24032648/HalfAdd.RTL.pdf)
-[Uploading wave map img.bmp…]()
+
+[wave map img.bmp](https://github.com/user-attachments/files/24073513/wave.map.img.bmp)
 
 output:
+[EX3 HalfAdd wave.pdf](https://github.com/user-attachments/files/24073509/EX3.HalfAdd.wave.pdf)
+
 
 We got the expected output in program
 
